@@ -63,3 +63,19 @@ body {
   height: 100%;
   flex: 1 0 100%;
 }
+
+.slide:nth-child(1) {
+  background-color: #dcedc8;
+}
+
+.slide:nth-child(2) {
+  background-color: #ffeb3b61;
+}
+
+.slide:nth-child(3) {
+  background-color: #b3e5fc;
+}
+
+.slide:nth-child(4) {
+  background-color: #f8bbd0;
+}
